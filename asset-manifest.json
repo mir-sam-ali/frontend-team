@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/frontend-team/static/css/main.bf45522f.chunk.css",
-    "main.js": "/frontend-team/static/js/main.63f5c38f.chunk.js",
-    "main.js.map": "/frontend-team/static/js/main.63f5c38f.chunk.js.map",
+    "main.css": "/frontend-team/static/css/main.1b9f243c.chunk.css",
+    "main.js": "/frontend-team/static/js/main.4ccb9c82.chunk.js",
+    "main.js.map": "/frontend-team/static/js/main.4ccb9c82.chunk.js.map",
     "runtime-main.js": "/frontend-team/static/js/runtime-main.9c770acd.js",
     "runtime-main.js.map": "/frontend-team/static/js/runtime-main.9c770acd.js.map",
     "static/css/2.4c6fa45d.chunk.css": "/frontend-team/static/css/2.4c6fa45d.chunk.css",
-    "static/js/2.cecf1082.chunk.js": "/frontend-team/static/js/2.cecf1082.chunk.js",
-    "static/js/2.cecf1082.chunk.js.map": "/frontend-team/static/js/2.cecf1082.chunk.js.map",
+    "static/js/2.69885520.chunk.js": "/frontend-team/static/js/2.69885520.chunk.js",
+    "static/js/2.69885520.chunk.js.map": "/frontend-team/static/js/2.69885520.chunk.js.map",
     "index.html": "/frontend-team/index.html",
-    "precache-manifest.0243ec11518344c531d969b81c272672.js": "/frontend-team/precache-manifest.0243ec11518344c531d969b81c272672.js",
+    "precache-manifest.589f4ffe40cfdc2bedd65b8ffd1a81ce.js": "/frontend-team/precache-manifest.589f4ffe40cfdc2bedd65b8ffd1a81ce.js",
     "service-worker.js": "/frontend-team/service-worker.js",
     "static/css/2.4c6fa45d.chunk.css.map": "/frontend-team/static/css/2.4c6fa45d.chunk.css.map",
-    "static/css/main.bf45522f.chunk.css.map": "/frontend-team/static/css/main.bf45522f.chunk.css.map",
-    "static/js/2.cecf1082.chunk.js.LICENSE.txt": "/frontend-team/static/js/2.cecf1082.chunk.js.LICENSE.txt",
+    "static/css/main.1b9f243c.chunk.css.map": "/frontend-team/static/css/main.1b9f243c.chunk.css.map",
+    "static/js/2.69885520.chunk.js.LICENSE.txt": "/frontend-team/static/js/2.69885520.chunk.js.LICENSE.txt",
     "static/media/Blog.png": "/frontend-team/static/media/Blog.f4275f18.png",
     "static/media/Calendar.png": "/frontend-team/static/media/Calendar.24076d3b.png",
     "static/media/Challenge.png": "/frontend-team/static/media/Challenge.b7f5f52d.png",
@@ -29,15 +29,17 @@
     "static/media/natesh.jpeg": "/frontend-team/static/media/natesh.fce13b32.jpeg",
     "static/media/Navigation.css": "/frontend-team/static/media/navbarBurgerMenuIcon.fed70ed7.png",
     "static/media/nishanth.jpg": "/frontend-team/static/media/nishanth.1854f0f7.jpg",
+    "static/media/noble.jpg": "/frontend-team/static/media/noble.2a10d654.jpg",
     "static/media/sameed.jpeg": "/frontend-team/static/media/sameed.df178428.jpeg",
+    "static/media/shubham.jpeg": "/frontend-team/static/media/shubham.d57d3196.jpeg",
     "static/media/shubhankar.jpg": "/frontend-team/static/media/shubhankar.88b05b91.jpg",
     "static/media/uncheckedBox.png": "/frontend-team/static/media/uncheckedBox.3a363807.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9c770acd.js",
     "static/css/2.4c6fa45d.chunk.css",
-    "static/js/2.cecf1082.chunk.js",
-    "static/css/main.bf45522f.chunk.css",
-    "static/js/main.63f5c38f.chunk.js"
+    "static/js/2.69885520.chunk.js",
+    "static/css/main.1b9f243c.chunk.css",
+    "static/js/main.4ccb9c82.chunk.js"
   ]
 }
