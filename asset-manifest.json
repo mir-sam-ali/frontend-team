@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/frontend-team/static/css/main.a5aae827.chunk.css",
-    "main.js": "/frontend-team/static/js/main.91b9fe33.chunk.js",
-    "main.js.map": "/frontend-team/static/js/main.91b9fe33.chunk.js.map",
+    "main.css": "/frontend-team/static/css/main.950551ab.chunk.css",
+    "main.js": "/frontend-team/static/js/main.18540a70.chunk.js",
+    "main.js.map": "/frontend-team/static/js/main.18540a70.chunk.js.map",
     "runtime-main.js": "/frontend-team/static/js/runtime-main.9c770acd.js",
     "runtime-main.js.map": "/frontend-team/static/js/runtime-main.9c770acd.js.map",
     "static/css/2.4c6fa45d.chunk.css": "/frontend-team/static/css/2.4c6fa45d.chunk.css",
-    "static/js/2.69885520.chunk.js": "/frontend-team/static/js/2.69885520.chunk.js",
-    "static/js/2.69885520.chunk.js.map": "/frontend-team/static/js/2.69885520.chunk.js.map",
+    "static/js/2.7219c9df.chunk.js": "/frontend-team/static/js/2.7219c9df.chunk.js",
+    "static/js/2.7219c9df.chunk.js.map": "/frontend-team/static/js/2.7219c9df.chunk.js.map",
     "index.html": "/frontend-team/index.html",
-    "precache-manifest.b35b4f6f4f4bc0330b33b31070ec04bd.js": "/frontend-team/precache-manifest.b35b4f6f4f4bc0330b33b31070ec04bd.js",
+    "precache-manifest.2a3062ccc241f80dd3de73ad29bf784b.js": "/frontend-team/precache-manifest.2a3062ccc241f80dd3de73ad29bf784b.js",
     "service-worker.js": "/frontend-team/service-worker.js",
     "static/css/2.4c6fa45d.chunk.css.map": "/frontend-team/static/css/2.4c6fa45d.chunk.css.map",
-    "static/css/main.a5aae827.chunk.css.map": "/frontend-team/static/css/main.a5aae827.chunk.css.map",
-    "static/js/2.69885520.chunk.js.LICENSE.txt": "/frontend-team/static/js/2.69885520.chunk.js.LICENSE.txt",
+    "static/css/main.950551ab.chunk.css.map": "/frontend-team/static/css/main.950551ab.chunk.css.map",
+    "static/js/2.7219c9df.chunk.js.LICENSE.txt": "/frontend-team/static/js/2.7219c9df.chunk.js.LICENSE.txt",
     "static/media/Blog.png": "/frontend-team/static/media/Blog.f4275f18.png",
     "static/media/Calendar.png": "/frontend-team/static/media/Calendar.24076d3b.png",
     "static/media/Challenge.png": "/frontend-team/static/media/Challenge.b7f5f52d.png",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.9c770acd.js",
     "static/css/2.4c6fa45d.chunk.css",
-    "static/js/2.69885520.chunk.js",
-    "static/css/main.a5aae827.chunk.css",
-    "static/js/main.91b9fe33.chunk.js"
+    "static/js/2.7219c9df.chunk.js",
+    "static/css/main.950551ab.chunk.css",
+    "static/js/main.18540a70.chunk.js"
   ]
 }
