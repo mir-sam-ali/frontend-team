@@ -71,7 +71,7 @@ const WebTeam = () => {
     {
       rollNo: 'CS19B038',
       name: 'Sagar Singh',
-      DPUrl: './WebTeamPhotos/default.png',
+      DPUrl: './WebTeamPhotos/sagar.jpg',
       designation: 'front end',
       tier: 'bottom',
     },
@@ -85,7 +85,7 @@ const WebTeam = () => {
     {
       rollNo: 'ME19B040',
       name: 'Talha Shamim',
-      DPUrl: './WebTeamPhotos/default.png',
+      DPUrl: './WebTeamPhotos/talha.jpeg',
       designation: 'front end',
       tier: 'bottom',
     },
