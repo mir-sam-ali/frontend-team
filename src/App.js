@@ -1,9 +1,7 @@
 import React from 'react';
-import { HashRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
-import { Navigation } from './Components/Navigation/Navigation';
 import HomePage from './Components/HomePage/HomePage';
-import Footer from './Components/Footer/Footer';
 import 'swiper/css/swiper.css';
 import EventsPage from './Components/EventsPage/EventsPage';
 import BlogsPage from './Components/BlogsPage/BlogsPage';
@@ -21,7 +19,7 @@ import ErrorPage from './Components/ErrorPage/ErrorPage';
 
 function App() {
   return (
-    <HashRouter basename="/">
+    <BrowserRouter basename="/">
       <div className="App">
         {/* <Navigation /> */}
 
@@ -55,7 +53,7 @@ function App() {
         </Switch>
         {/* <Footer /> */}
       </div>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
