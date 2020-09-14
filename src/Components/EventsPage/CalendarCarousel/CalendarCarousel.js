@@ -20,6 +20,7 @@ class CalendarCarousel extends Component {
       },
     };
   }
+
   handleSelect = (selectedIndex, e) => {
     this.setState({
       index: selectedIndex,

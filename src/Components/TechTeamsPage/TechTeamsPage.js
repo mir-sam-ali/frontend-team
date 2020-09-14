@@ -5,7 +5,6 @@ import Navigation from '../Navigation/Navigation';
 import ProjectFooter from '../ProjectsPage/ProjectFooter/ProjectFooter';
 import './TechTeamsPage.css';
 import Loading from '../ReusableComponents/Loading/Loading';
-import TechTeamMembers from './TechTeamMembers/TechTeamMembers';
 import TechTeamInfo from './TechTeamInfo/TechTeamInfo';
 import CustomHR from '../ReusableComponents/CustomHR/CustomHR';
 

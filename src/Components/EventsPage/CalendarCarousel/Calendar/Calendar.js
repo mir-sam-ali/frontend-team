@@ -20,6 +20,7 @@ const Calendar = (props) => {
     'July',
     'August',
     'September',
+    'October',
     'November',
     'December',
   ];

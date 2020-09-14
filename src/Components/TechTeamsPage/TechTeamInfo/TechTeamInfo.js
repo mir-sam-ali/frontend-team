@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import parse from 'html-react-parser';
 import { Button } from 'react-bootstrap';
 import './TechTeamInfo.css';
-import { FaGithub, FaYoutube, FaInstagram } from 'react-icons/fa';
 
 function TechTeamInfo({ data }) {
   const [readMore, setReadMore] = useState(false);
